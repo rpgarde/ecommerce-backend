@@ -3,7 +3,7 @@
 
 ## Description
 This is an e-commerce backend built using Node.JS, Express, Sequelize, and MySQL. See video demos [Part 1](https://drive.google.com/file/d/1ajSgI8dSkMNp08XDrcCPdwZ-D5acjBvl/view) and [Part 2](https://drive.google.com/file/d/1IEMlkfmRPaQir67V2wuAtZAojPsCMwmT/view) demonstrating its functionality.
-![Screenshot](./assets/\screenshot.png)
+![Screenshot](./assets/screenshot.png)
 
 ## Table of Contents 
 * [Installation](#installation)
@@ -19,13 +19,14 @@ This is an e-commerce backend built using Node.JS, Express, Sequelize, and MySQL
 * Type npm i on your terminal to install all dependencies
 * Type npm run seed to seed the database
 * Type npm start to run the application
+* Check routes on Insomnia (see routes [here](./assets/ecommerce-insomnia.json))
 
 ## Usage
 See video walkthrough [Part 1](https://drive.google.com/file/d/1ajSgI8dSkMNp08XDrcCPdwZ-D5acjBvl/view) and [Part 2](https://drive.google.com/file/d/1IEMlkfmRPaQir67V2wuAtZAojPsCMwmT/view).
 1. npm start to get started
 2. Go to insomnia and set the necessary routes
 
-This has the following routes setup under http://localhost:3001/api
+This has the following routes setup under http://localhost:3001/api, you can also import it into your own Insomnia app by going [here](./assets/ecommerce-insomnia.json)
 * /categories
     * GET all categories
     * GET categories by ID (use /categories/:id)
