@@ -2,7 +2,7 @@
 ![license](https://img.shields.io/github/license/rpgarde/ecommerce-backend)
 
 ## Description
-This is an e-commerce backend built using Node.JS, Express, Sequelize, and MySQL. See video demos [Part 1](https://drive.google.com/file/d/1ajSgI8dSkMNp08XDrcCPdwZ-D5acjBvl/view) and [Part 2](https://drive.google.com/file/d/1IEMlkfmRPaQir67V2wuAtZAojPsCMwmT/view) demonstrating its functionality.
+This is an e-commerce backend built using Node.JS, Express, Sequelize, and MySQL. See video demos [Part 1](https://drive.google.com/file/d/105RC-QKnBRJPX7hHHUXAoGoJXBkZrjWy/view) and [Part 2](https://drive.google.com/file/d/1IEMlkfmRPaQir67V2wuAtZAojPsCMwmT/view) demonstrating its functionality.
 ![Screenshot](./assets/screenshot.png)
 
 ## Table of Contents 
@@ -22,7 +22,7 @@ This is an e-commerce backend built using Node.JS, Express, Sequelize, and MySQL
 * Check routes on Insomnia (see routes [here](./assets/ecommerce-insomnia.json))
 
 ## Usage
-See video walkthrough [Part 1](https://drive.google.com/file/d/1ajSgI8dSkMNp08XDrcCPdwZ-D5acjBvl/view) and [Part 2](https://drive.google.com/file/d/1IEMlkfmRPaQir67V2wuAtZAojPsCMwmT/view).
+See video walkthrough [Part 1](https://drive.google.com/file/d/105RC-QKnBRJPX7hHHUXAoGoJXBkZrjWy/view) and [Part 2](https://drive.google.com/file/d/1IEMlkfmRPaQir67V2wuAtZAojPsCMwmT/view).
 1. npm start to get started
 2. Go to insomnia and set the necessary routes
 
